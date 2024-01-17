@@ -4,7 +4,7 @@
   
   <br>
     <a href="https://zenml.io" rel="nofollow">
-      <img alt="ZenML 徽标" src="/zenml-io/zenml/raw/main/docs/book/.gitbook/assets/header.png" style="max-width: 100%;">
+      <img alt="ZenML 徽标" src="https://github.com/zenml-io/zenml/raw/main/docs/book/.gitbook/assets/header.png" style="max-width: 100%;">
     </a>
   <br>
 <p dir="auto"><a href="https://pypi.org/project/zenml/" rel="nofollow"><img src="https://camo.githubusercontent.com/ffc35d161932651a697a261d89dd7166be389287377a41cf7b50f57edd1c72c5/68747470733a2f2f696d672e736869656c64732e696f2f707970692f707976657273696f6e732f7a656e6d6c3f636f6c6f723d323831313538" alt="皮皮" data-canonical-src="https://img.shields.io/pypi/pyversions/zenml?color=281158" style="max-width: 100%;"></a>
