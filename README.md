@@ -83,7 +83,7 @@
 <p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🛫 ZenML 使 MLOps 基础设施专家能够定义、部署和管理易于同事使用的复杂生产环境。</font></font></p>
 </li>
 </ul>
-<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="/zenml-io/zenml/blob/main/docs/book/.gitbook/assets/intro-zenml-overview.png"><img src="/zenml-io/zenml/raw/main/docs/book/.gitbook/assets/intro-zenml-overview.png" alt="从实验到生产的漫长旅程。" style="max-width: 100%;"></a></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://github.com/zenml-io/zenml/blob/main/docs/book/.gitbook/assets/intro-zenml-overview.png"><img src="/zenml-io/zenml/raw/main/docs/book/.gitbook/assets/intro-zenml-overview.png" alt="从实验到生产的漫长旅程。" style="max-width: 100%;"></a></p>
 <p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ZenML 提供专为 ML 工作流程设计的用户友好语法，与任何云或工具兼容。</font><font style="vertical-align: inherit;">它支持集中式管道管理，使开发人员只需编写一次代码即可轻松将其部署到各种基础设施。</font></font></p>
 <div align="center" dir="auto">
     <animated-image data-catalyst=""><a target="_blank" rel="noopener noreferrer" href="https://github.com/zenml-io/zenml/blob/main/docs/book/.gitbook/assets/overview.gif" data-target="animated-image.originalLink"><img src="https://github.com/zenml-io/zenml/raw/main/docs/book/.gitbook/assets/overview.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
@@ -117,7 +117,7 @@
 <p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ZenML 允许您使用一流的开源和基于云的技术创建和管理自己的 MLOps 平台。</font><font style="vertical-align: inherit;">以下是如何为您的团队进行设置的示例：</font></font></p>
 <h2 tabindex="-1" dir="auto"><a id="user-content--1-deploy-zenml" class="anchor" aria-hidden="true" tabindex="-1" href="#-1-deploy-zenml"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🔋 1.部署ZenML</font></font></h2>
 <p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">为了获得完整的功能，ZenML 应部署在云上，以启用协作功能作为团队的中央 MLOps 界面。</font></font></p>
-<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="/zenml-io/zenml/blob/main/docs/book/.gitbook/assets/Scenario3.png"><img src="/zenml-io/zenml/raw/main/docs/book/.gitbook/assets/Scenario3.png" alt="ZenML 架构图。" style="max-width: 100%;"></a></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://github.com/zenml-io/zenml/blob/main/docs/book/.gitbook/assets/Scenario3.png"><img src="/zenml-io/zenml/raw/main/docs/book/.gitbook/assets/Scenario3.png" alt="ZenML 架构图。" style="max-width: 100%;"></a></p>
 <p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">目前，部署 ZenML 有两个主要选项：</font></font></p>
 <ul dir="auto">
 <li>
